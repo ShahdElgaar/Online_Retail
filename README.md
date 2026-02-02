@@ -7,6 +7,7 @@ The final output is an interactive dashboard designed for business decision-maki
 **Tools & Technologies:**
 
 SQL Server (SSMS): Data cleaning, transformation, and analysis
+
 Power BI: Data modeling, DAX measures, and interactive dashboards
 
 **Business Value:**
